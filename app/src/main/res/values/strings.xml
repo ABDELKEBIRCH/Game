@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Super Machine à Sous</string>
+    <string name="solde">Solde: 100$</string>
+    <string name="jouer">JOUER</string>
+    <string name="mode_casse_cou">Mode Casse-cou</string>
+    <string name="ajouter_100">Pour ajouter 100$</string>
+    <string name="code_secret">Code secret</string>
+    <string name="gain_message">Vous avez gagné %1$d$ !</string>
+    <string name="solde_insuffisant">Solde insuffisant pour cette mise.</string>
+    <string name="plus_de_solde">Vous n avez plus de solde !</string>
+</resources>
